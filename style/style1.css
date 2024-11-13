@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(245, 225, 220);
+    margin: 10px;
+  }
+
+.nav{
+    justify-content: space-evenly;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+  }
+
+.nav .anjay {
+  margin: 6px;
+   font-size: 20px;
+   text-decoration: none;
+   font-family: 'Times New Roman', Times, serif;
+   border: 1px solid #000;
+   background-color: black;
+   width: 100px;
+   height: 30px;
+   border-radius: 3rem;
+   color: white;
+   margin-top: -1px;
+}
+
+.nav .about {
+  margin: 6px;
+   font-size: 20px;
+   text-decoration: none;
+   font-family: 'Times New Roman', Times, serif;
+   border: 1px solid #000;
+   background-color: black;
+   width: 100px;
+   height: 30px;
+   border-radius: 3rem;
+   color: white;
+   margin-top: -1px;
+}
+
+.nav .vidio {
+  margin: 6px;
+   font-size: 20px;
+   text-decoration: none;
+   font-family: 'Times New Roman', Times, serif;
+   border: 1px solid #000;
+   background-color:black;
+   width: 100px;
+   height: 30px;
+   border-radius: 3rem;
+   color: white;
+   margin-top: -1px;
+}
+ 
+.yyy {
+    margin: 60px;
+    background: linear-gradient(to right, orange, white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.dar {
+  margin-left :360px ;
+  font-size: 35px;
+  margin-top: -380px;
+}
+
+.yaw {
+  background: linear-gradient(to bottom, grey, );
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body .nav {
+  background: linear-gradient(to left white, gold);
+}
+
+.container {
+  background: linear-gradient(to right white, gold);
+}
+
+
+.grid {
+  display: flex;
+  padding: 20px 30px;
+}
+
+.grid img {
+  margin: 10px;
+  width: 300px;
+  height: 300px;
+}
+
+.jam {
+  display: flex;
+  padding: 10px 30px;
+}
+
+.jam img {
+  margin: 10px;
+  width: 300px;
+  height: 300px;
+}
+
+.container img:hover {
+  widht: 50px;}
+
+img :hover {}
